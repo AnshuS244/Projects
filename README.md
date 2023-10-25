@@ -13,4 +13,4 @@
 > In this project I made a scene using shapes, variables, randomness, and text
 
 [Interacive Card](https://studio.code.org/projects/gamelab/feMn4X_8ZxUrB_GRdrQgSeFhUiU4-hbmsu868LxoGtM)
-> In this project we made an interactive New Years card by using mouse and keyboard input code.
+> In this project we made an interactive New Years card by using mouse and keyboard input code and conditionals that change and create sprite animations
