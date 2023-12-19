@@ -26,3 +26,12 @@
 
 [Final Game Project](https://studio.code.org/projects/gamelab/CISSfEWzBezyatTovmyuiXiNJ8E73HhC3X2XB2ODf98)
 > In this project I made a game using 3 different backgrounds to display directions and game outcomes, calling functions, conditionals, and complex movements. This is a game where the player has to avoid obstacles, jump on platforms, and collect swords to increase the score.
+
+[Hello It's Me Project](https://gallery.appinventor.mit.edu/?galleryid=8981811c-b6b2-480e-96a7-88b30fe7cdbe)
+> I used MIT App Inventor to make an app that uses buttons and players that play a sound when you press a button.
+
+[My Piano App](https://gallery.appinventor.mit.edu/?galleryid=50a12b70-2166-4e7e-bcec-ab84d0114df5)
+> In this app, I used buttons and players that will play a piano note when the corresponding button is pressed.
+
+[Music Maker App](https://gallery.appinventor.mit.edu/?galleryid=510e751d-2e1c-4721-8194-2f1a035100bd)
+> In this app we made a musical soundboard using a boolean expression to record, buttons and players where if a button is pressed then it makes music from the corresponding instrument.
