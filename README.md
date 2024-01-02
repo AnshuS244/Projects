@@ -35,3 +35,6 @@
 
 [Music Maker App](https://gallery.appinventor.mit.edu/?galleryid=510e751d-2e1c-4721-8194-2f1a035100bd)
 > In this app we made a musical soundboard using a boolean expression to record, buttons and players where if a button is pressed then it makes music from the corresponding instrument.
+
+[Find the Gold](https://ai2.appinventor.mit.edu/#5277856869253120)
+> In this app we made a maze where a ball has to move and touch the gold. You control the ball by tilting your screen. We used an accelerometer sensor and notifier to identify if you won or lost.
