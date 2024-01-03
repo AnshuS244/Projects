@@ -38,3 +38,6 @@
 
 [Find the Gold](https://ai2.appinventor.mit.edu/#5277856869253120)
 > In this app we made a maze where a ball has to move and touch the gold. You control the ball by tilting your screen. We used an accelerometer sensor and notifier to identify if you won or lost.
+
+[Fish Chase Game](https://ai2.appinventor.mit.edu/#5436261806243840)
+> In this game we used variable storage to create a high score. You have to swipe on the screen to move the red ball. Avoid the green ball or you lose. Collect the fish to earn points.
