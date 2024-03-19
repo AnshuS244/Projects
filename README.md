@@ -27,6 +27,7 @@
 [Final Game Project](https://studio.code.org/projects/gamelab/CISSfEWzBezyatTovmyuiXiNJ8E73HhC3X2XB2ODf98)
 > In this project I made a game using 3 different backgrounds to display directions and game outcomes, calling functions, conditionals, and complex movements. This is a game where the player has to avoid obstacles, jump on platforms, and collect swords to increase the score.
 
+### App Inventor
 [Hello It's Me Project](https://gallery.appinventor.mit.edu/?galleryid=8981811c-b6b2-480e-96a7-88b30fe7cdbe)
 > I used MIT App Inventor to make an app that uses buttons and players that play a sound when you press a button.
 
@@ -41,3 +42,10 @@
 
 [Fish Chase Game](https://ai2.appinventor.mit.edu/#5436261806243840)
 > In this game we used variable storage to create a high score. You have to swipe on the screen to move the red ball. Avoid the green ball or you lose. Collect the fish to earn points.
+
+### CMU Python
+[Creative Task Unit 1: PacMan](https://academy.cs.cmu.edu/sharing/blueVioletHorse8126)
+> I used python to code shapes and shape properties to create a PacMam scene
+
+[Creative Task Unit 2: Shooting Star](https://academy.cs.cmu.edu/sharing/chocolateSquirrel4133)
+> Me and my partner coded in python to create a shooting star that travels across the screen as the mouse is pressed.
