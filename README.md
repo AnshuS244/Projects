@@ -49,3 +49,9 @@
 
 [Creative Task Unit 2: Shooting Star](https://academy.cs.cmu.edu/sharing/chocolateSquirrel4133)
 > Me and my partner coded in python to create a shooting star that travels across the screen as the mouse is pressed.
+
+[Creative Task Unit 3: Sunset](https://academy.cs.cmu.edu/sharing/beigeLobster6171)
+> My partner and I made a sunset scene where a sun is user interactive with the mouse, the sky changes colors as the sun dips below the mountains and once the sun is gone you can click and drag up to bring up the moon.
+
+[Creative Task Unit 4: Cookie Cutter](https://academy.cs.cmu.edu/sharing/powderBlueHippo4669)
+> My partner and I made a interactive activity where a user can click on dough and change the shape with the selected cutter (buttons 1, 2, 3).
